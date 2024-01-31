@@ -6,7 +6,7 @@ const Header = () => {
     <header>
    <div className='logo'>
 
-    <img src={Logo} alt='logo image'/>
+    <img src={Logo}  alt=''/>
     <span>Taskmate</span>
    </div>
 
@@ -16,7 +16,7 @@ const Header = () => {
         <span className='dark'></span>
         <span className='gOne'></span>
         <span className='gTwo'></span>
-        <spa className='gThree'></spa>
+        <span className='gThree'></span>
     </div>
 
    </header>
